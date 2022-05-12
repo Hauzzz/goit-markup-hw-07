@@ -3,15 +3,15 @@
       {
         "format": "expanded",
         "extensionName": ".css",
-        "savePath": "GOIT-MARKUP-HW-07/css"
+        "savePath": "/GOIT-MARKUP-HW-07/css"
       },
       {
         "format": "compressed",
         "extensionName": ".min.css",
-        "savePath": "GOIT-MARKUP-HW-07/css"
+        "savePath": "/GOIT-MARKUP-HW-07/css"
       }
     ],
-    "liveSassCompile.settings.excludeList": ["**/node_modules/**", "GOIT-MARKUP-HW-07/.vscode**"],
+    "liveSassCompile.settings.excludeList": ["/GOIT-MARKUP-HW-07", "/GOIT-MARKUP-HW-07/.vscode"],
     "liveSassCompile.settings.generateMap": true,
     "liveServer.settings.port": 1235,
     "liveSassCompile.settings.autoprefix": null
