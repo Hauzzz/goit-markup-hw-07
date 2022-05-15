@@ -1,29 +1,26 @@
 
+@import "./base/styles";
+
+@import "./components/modal";
+
+@import "./components/reset";
+
+@import "./layout/clients";
+
+@import "./layout/features";
+
+@import "./layout/footer";
+
 @import "./layout/header";
 
-@import "./sass/layout/middlebar_section";
+@import "./layout/main_pool";
 
-@import "./sass/layout/features";
+@import "./layout/middlebar_section";
 
-@import "./sass/layout/clients";
+@import "./layout/portfolio";
 
-@import "./sass/layout/footer";
+@import "./layout/team";
 
-@import "./sass/layout/main_pool";
+@import "./utils/fonts";
 
-@import "./sass/layout/portfolio";
-
-@import "./sass/layout/team";
-
-@import "./sass/components/modal";
-
-@import "./sass/components/reset";
-
-@import "./sass/base/styles";
-
-@import "./sass/utils/fonts";
-
-@import "./sass/utils/vars";
-
-
-
+@import "./utils/vars";
